@@ -63,7 +63,7 @@ ToolGenie was created to eliminate the need to search the internet every time yo
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ToolGenie.git
+git clone https://github.com/VishalSuresh0607/ToolGenie.git
 cd ToolGenie
 ```
 
@@ -71,7 +71,7 @@ Open `index.html` in your browser.
 
 ## 🌐 Live Demo
 
-https://YOUR_USERNAME.github.io/ToolGenie/
+https://VishalSuresh0607.github.io/ToolGenie/
 
 ## 🤝 Contributing
 
