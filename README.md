@@ -71,7 +71,7 @@ Open `index.html` in your browser.
 
 ## 🌐 Live Demo
 
-https://github.dev/VishalSuresh0607/ToolGinie/blob/d883a0d34503eeaf69c9155e4cc48f7aae3b7f6b/.github/workflows/ToolGenie.html#L5
+https://vishalsuresh0607.github.io/ToolGinie/
 
 ## 🤝 Contributing
 
